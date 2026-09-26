@@ -1,0 +1,6 @@
+dataset/
+models/
+output/
+*.zip
+*.pkl
+__pycache__/
